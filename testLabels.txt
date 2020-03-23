@@ -1,0 +1,1392 @@
+./img/left0002.jpg,569,779,654,894,blemished onion
+./img/left0002.jpg,671,791,756,906,blemished onion
+./img/left0002.jpg,756,787,834,865,unblemished onion
+./img/left0002.jpg,949,816,1027,894,unblemished onion
+./img/left0002.jpg,831,793,935,905,unblemished onion
+./img/left0002.jpg,496,751,643,820,glove
+./img/left0002.jpg,899,688,981,773,glove
+./img/left0016.jpg,660,798,748,900,blemished onion
+./img/left0016.jpg,950,810,1022,898,unblemished onion
+./img/left0016.jpg,835,798,916,890,unblemished onion
+./img/left0016.jpg,765,782,847,874,unblemished onion
+./img/left0016.jpg,576,685,657,777,unblemished onion
+./img/left0016.jpg,519,691,613,783,glove
+./img/left0016.jpg,888,746,996,798,glove
+./img/left0018.jpg,645,787,756,907,blemished onion
+./img/left0018.jpg,940,817,1027,891,unblemished onion
+./img/left0018.jpg,841,798,922,898,unblemished onion
+./img/left0018.jpg,762,780,843,879,unblemished onion
+./img/left0018.jpg,567,686,649,785,unblemished onion
+./img/left0018.jpg,521,683,607,821,glove
+./img/left0021.jpg,653,797,757,895,blemished onion
+./img/left0021.jpg,930,817,1016,902,unblemished onion
+./img/left0021.jpg,834,794,917,892,unblemished onion
+./img/left0021.jpg,762,777,846,875,unblemished onion
+./img/left0021.jpg,554,696,638,794,unblemished onion
+./img/left0021.jpg,502,695,599,809,glove
+./img/left0023.jpg,666,804,754,910,blemished onion
+./img/left0023.jpg,943,810,998,901,unblemished onion
+./img/left0023.jpg,840,796,916,890,unblemished onion
+./img/left0023.jpg,765,781,840,875,unblemished onion
+./img/left0023.jpg,571,704,647,798,unblemished onion
+./img/left0023.jpg,512,701,606,833,glove
+./img/left0025.jpg,661,804,749,910,blemished onion
+./img/left0025.jpg,939,811,1024,897,unblemished onion
+./img/left0025.jpg,837,800,922,886,unblemished onion
+./img/left0025.jpg,755,787,840,873,unblemished onion
+./img/left0025.jpg,573,735,658,821,unblemished onion
+./img/left0025.jpg,500,700,630,829,glove
+./img/left0037.jpg,661,798,756,899,blemished onion
+./img/left0037.jpg,552,790,647,893,blemished onion
+./img/left0037.jpg,957,829,1047,914,unblemished onion
+./img/left0037.jpg,835,801,925,886,unblemished onion
+./img/left0037.jpg,757,786,847,871,unblemished onion
+./img/left0037.jpg,521,717,642,858,glove
+./img/left0038.jpg,661,793,747,897,blemished onion
+./img/left0038.jpg,552,791,638,895,blemished onion
+./img/left0038.jpg,953,817,1038,912,unblemished onion
+./img/left0038.jpg,833,797,918,892,unblemished onion
+./img/left0038.jpg,759,786,844,881,unblemished onion
+./img/left0038.jpg,519,726,646,862,glove
+./img/left0041.jpg,657,793,754,880,blemished onion
+./img/left0041.jpg,551,800,648,885,blemished onion
+./img/left0041.jpg,959,827,1036,906,unblemished onion
+./img/left0041.jpg,841,800,917,892,unblemished onion
+./img/left0041.jpg,762,784,838,876,unblemished onion
+./img/left0041.jpg,513,720,642,858,glove
+./img/left0048.jpg,537,787,643,893,blemished onion
+./img/left0048.jpg,657,790,763,896,blemished onion
+./img/left0048.jpg,946,829,1035,904,unblemished onion
+./img/left0048.jpg,831,800,918,891,unblemished onion
+./img/left0048.jpg,759,788,846,879,unblemished onion
+./img/left0048.jpg,455,722,535,829,glove
+./img/left0052.jpg,648,797,753,901,blemished onion
+./img/left0052.jpg,535,783,640,887,blemished onion
+./img/left0052.jpg,957,821,1036,900,unblemished onion
+./img/left0052.jpg,836,805,915,892,unblemished onion
+./img/left0052.jpg,762,791,841,878,unblemished onion
+./img/left0052.jpg,453,762,537,873,glove
+./img/left0076.jpg,537,775,643,881,blemished onion
+./img/left0076.jpg,952,827,1041,905,unblemished onion
+./img/left0076.jpg,828,793,921,893,unblemished onion
+./img/left0076.jpg,757,780,850,880,unblemished onion
+./img/left0076.jpg,630,741,739,850,glove
+./img/left0076.jpg,829,651,949,730,glove
+./img/left0079.jpg,541,785,646,891,blemished onion
+./img/left0079.jpg,952,822,1039,909,unblemished onion
+./img/left0079.jpg,847,781,933,887,unblemished onion
+./img/left0079.jpg,765,774,852,880,unblemished onion
+./img/left0079.jpg,627,738,753,861,glove
+./img/left0079.jpg,906,730,1054,797,glove
+./img/left0082.jpg,537,777,643,883,blemished onion
+./img/left0082.jpg,948,820,1036,903,unblemished onion
+./img/left0082.jpg,759,785,848,868,unblemished onion
+./img/left0082.jpg,846,781,942,885,unblemished onion
+./img/left0082.jpg,606,734,758,868,glove
+./img/left0088.jpg,546,790,651,896,blemished onion
+./img/left0088.jpg,651,809,752,907,blemished onion
+./img/left0088.jpg,951,832,1042,905,unblemished onion
+./img/left0088.jpg,756,793,847,866,unblemished onion
+./img/left0088.jpg,843,783,939,885,unblemished onion
+./img/left0088.jpg,600,750,755,869,glove
+./img/left0089.jpg,546,792,646,890,blemished onion
+./img/left0089.jpg,645,808,746,906,blemished onion
+./img/left0089.jpg,961,824,1042,917,unblemished onion
+./img/left0089.jpg,758,788,840,881,unblemished onion
+./img/left0089.jpg,853,776,939,886,unblemished onion
+./img/left0089.jpg,612,752,764,882,glove
+./img/left0090.jpg,549,792,650,890,blemished onion
+./img/left0090.jpg,651,808,752,906,blemished onion
+./img/left0090.jpg,958,828,1033,905,unblemished onion
+./img/left0090.jpg,761,789,837,866,unblemished onion
+./img/left0090.jpg,846,786,934,888,unblemished onion
+./img/left0090.jpg,593,738,769,854,glove
+./img/left0090.jpg,870,718,1015,801,glove
+./img/left0094.jpg,543,793,644,891,blemished onion
+./img/left0094.jpg,656,799,757,899,blemished onion
+./img/left0094.jpg,954,826,1039,900,unblemished onion
+./img/left0094.jpg,762,787,838,878,unblemished onion
+./img/left0094.jpg,847,783,933,885,unblemished onion
+./img/left0094.jpg,530,632,691,694,glove
+./img/left0094.jpg,816,665,918,764,glove
+./img/left0095.jpg,654,797,754,895,blemished onion
+./img/left0095.jpg,543,794,644,892,blemished onion
+./img/left0095.jpg,954,833,1040,906,unblemished onion
+./img/left0095.jpg,757,793,843,866,unblemished onion
+./img/left0095.jpg,849,779,927,882,unblemished onion
+./img/left0095.jpg,518,634,646,700,glove
+./img/left0095.jpg,812,661,915,773,glove
+./img/left0099.jpg,661,797,762,895,blemished onion
+./img/left0099.jpg,542,796,643,894,blemished onion
+./img/left0099.jpg,748,779,832,873,unblemished onion
+./img/left0099.jpg,954,846,1030,910,unblemished onion
+./img/left0099.jpg,870,826,946,891,unblemished onion
+./img/left0099.jpg,507,709,581,787,glove
+./img/left0099.jpg,807,699,935,886,glove
+./img/left0103.jpg,546,787,646,887,blemished onion
+./img/left0103.jpg,662,799,763,899,blemished onion
+./img/left0103.jpg,754,789,837,870,unblemished onion
+./img/left0103.jpg,948,826,1031,907,unblemished onion
+./img/left0103.jpg,855,779,937,860,unblemished onion
+./img/left0103.jpg,521,722,607,794,glove
+./img/left0103.jpg,830,703,928,856,glove
+./img/left0103.jpg,957,741,1113,909,glove
+./img/left0105.jpg,541,785,646,892,blemished onion
+./img/left0105.jpg,660,803,765,910,blemished onion
+./img/left0105.jpg,765,788,835,861,unblemished onion
+./img/left0105.jpg,849,780,933,861,unblemished onion
+./img/left0105.jpg,978,803,1062,884,unblemished onion
+./img/left0105.jpg,487,708,624,798,glove
+./img/left0105.jpg,837,729,954,858,glove
+./img/left0105.jpg,971,742,1100,888,glove
+./img/left0113.jpg,544,786,648,893,blemished onion
+./img/left0113.jpg,653,793,757,900,blemished onion
+./img/left0113.jpg,754,779,829,871,unblemished onion
+./img/left0113.jpg,845,802,921,894,unblemished onion
+./img/left0113.jpg,963,824,1038,916,unblemished onion
+./img/left0113.jpg,501,706,671,800,glove
+./img/left0113.jpg,823,747,947,864,glove
+./img/left0113.jpg,959,763,1069,868,glove
+./img/left0121.jpg,562,783,666,887,blemished onion
+./img/left0121.jpg,655,804,760,910,blemished onion
+./img/left0121.jpg,754,783,837,868,unblemished onion
+./img/left0121.jpg,840,792,923,878,unblemished onion
+./img/left0121.jpg,942,815,1025,900,unblemished onion
+./img/left0121.jpg,522,732,639,865,glove
+./img/left0121.jpg,902,691,1023,775,glove
+./img/left0121.jpg,1030,716,1121,792,glove
+./img/left0127.jpg,658,800,762,907,blemished onion
+./img/left0127.jpg,753,791,842,863,unblemished onion
+./img/left0127.jpg,837,792,928,882,unblemished onion
+./img/left0127.jpg,933,806,1024,896,unblemished onion
+./img/left0127.jpg,578,800,669,891,unblemished onion
+./img/left0127.jpg,512,736,641,908,glove
+./img/left0134.jpg,670,805,755,895,blemished onion
+./img/left0134.jpg,581,797,666,889,blemished onion
+./img/left0134.jpg,757,786,841,864,unblemished onion
+./img/left0134.jpg,841,799,925,884,unblemished onion
+./img/left0134.jpg,942,814,1025,899,unblemished onion
+./img/left0134.jpg,516,651,623,721,glove
+./img/left0134.jpg,863,676,994,775,glove
+./img/left0136.jpg,593,796,678,888,blemished onion
+./img/left0136.jpg,670,806,755,898,blemished onion
+./img/left0136.jpg,760,783,845,874,unblemished onion
+./img/left0136.jpg,839,793,924,883,unblemished onion
+./img/left0136.jpg,947,817,1032,907,unblemished onion
+./img/left0136.jpg,527,673,640,767,glove
+./img/left0136.jpg,836,646,923,739,glove
+./img/left0140.jpg,663,799,748,891,blemished onion
+./img/left0140.jpg,593,801,678,893,blemished onion
+./img/left0140.jpg,755,787,831,861,unblemished onion
+./img/left0140.jpg,952,824,1027,898,unblemished onion
+./img/left0140.jpg,849,798,922,887,unblemished onion
+./img/left0140.jpg,621,717,734,788,glove
+./img/left0140.jpg,812,698,931,847,glove
+./img/left0142.jpg,670,806,755,898,blemished onion
+./img/left0142.jpg,593,797,678,889,blemished onion
+./img/left0142.jpg,946,826,1033,898,unblemished onion
+./img/left0142.jpg,751,788,837,860,unblemished onion
+./img/left0142.jpg,841,802,927,888,unblemished onion
+./img/left0142.jpg,648,712,755,789,glove
+./img/left0142.jpg,824,720,930,867,glove
+./img/left0157.jpg,591,795,676,887,blemished onion
+./img/left0157.jpg,666,807,751,899,blemished onion
+./img/left0157.jpg,949,827,1030,902,unblemished onion
+./img/left0157.jpg,861,791,943,867,unblemished onion
+./img/left0157.jpg,759,792,841,868,unblemished onion
+./img/left0157.jpg,686,726,816,827,glove
+./img/left0157.jpg,847,752,952,823,glove
+./img/left0168.jpg,592,797,677,889,blemished onion
+./img/left0168.jpg,665,799,750,891,blemished onion
+./img/left0168.jpg,949,824,1030,911,unblemished onion
+./img/left0168.jpg,853,777,934,864,unblemished onion
+./img/left0168.jpg,763,792,811,881,unblemished onion
+./img/left0168.jpg,711,704,830,861,glove
+./img/left0176.jpg,593,799,678,891,blemished onion
+./img/left0176.jpg,666,801,751,893,blemished onion
+./img/left0176.jpg,946,823,1030,913,unblemished onion
+./img/left0176.jpg,849,775,933,865,unblemished onion
+./img/left0176.jpg,744,788,827,878,unblemished onion
+./img/left0176.jpg,560,633,674,712,glove
+./img/left0176.jpg,959,726,1111,838,glove
+./img/left0178.jpg,589,788,678,899,blemished onion
+./img/left0178.jpg,668,790,757,901,blemished onion
+./img/left0178.jpg,742,783,812,885,unblemished onion
+./img/left0178.jpg,855,767,925,870,unblemished onion
+./img/left0178.jpg,954,861,1035,910,unblemished onion
+./img/left0178.jpg,463,721,570,804,glove
+./img/left0178.jpg,959,745,1089,904,glove
+./img/left0179.jpg,589,793,677,898,blemished onion
+./img/left0179.jpg,666,799,754,902,blemished onion
+./img/left0179.jpg,846,773,927,874,unblemished onion
+./img/left0179.jpg,744,786,825,887,unblemished onion
+./img/left0179.jpg,947,857,1037,913,unblemished onion
+./img/left0179.jpg,459,746,539,846,glove
+./img/left0179.jpg,952,730,1086,905,glove
+./img/left0184.jpg,664,797,756,895,blemished onion
+./img/left0184.jpg,590,794,681,892,blemished onion
+./img/left0184.jpg,744,781,827,895,unblemished onion
+./img/left0184.jpg,842,768,926,882,unblemished onion
+./img/left0184.jpg,958,814,1031,898,unblemished onion
+./img/left0184.jpg,955,732,1074,889,glove
+./img/left0193.jpg,666,800,757,900,blemished onion
+./img/left0193.jpg,589,794,680,892,blemished onion
+./img/left0193.jpg,929,815,1014,894,unblemished onion
+./img/left0193.jpg,843,780,928,859,unblemished onion
+./img/left0193.jpg,742,792,824,880,unblemished onion
+./img/left0193.jpg,529,698,672,800,glove
+./img/left0193.jpg,1084,752,1230,880,glove
+./img/left0199.jpg,670,799,757,895,blemished onion
+./img/left0199.jpg,595,795,683,891,blemished onion
+./img/left0199.jpg,748,775,823,887,unblemished onion
+./img/left0199.jpg,848,777,927,865,unblemished onion
+./img/left0199.jpg,938,807,1017,895,unblemished onion
+./img/left0199.jpg,541,738,654,881,glove
+./img/left0199.jpg,1113,833,1199,971,glove
+./img/left0200.jpg,593,794,681,890,blemished onion
+./img/left0200.jpg,672,799,760,895,blemished onion
+./img/left0200.jpg,754,788,817,885,unblemished onion
+./img/left0200.jpg,849,770,923,862,unblemished onion
+./img/left0200.jpg,944,812,1018,904,unblemished onion
+./img/left0200.jpg,537,750,642,864,glove
+./img/left0200.jpg,907,698,1035,794,glove
+./img/left0200.jpg,1105,816,1201,965,glove
+./img/left0208.jpg,676,801,751,892,blemished onion
+./img/left0208.jpg,571,799,647,890,blemished onion
+./img/left0208.jpg,746,787,818,885,unblemished onion
+./img/left0208.jpg,938,813,1010,910,unblemished onion
+./img/left0208.jpg,845,786,913,861,unblemished onion
+./img/left0208.jpg,541,748,646,827,glove
+./img/left0208.jpg,839,703,939,852,glove
+./img/left0208.jpg,1101,816,1206,976,glove
+./img/left0211.jpg,570,802,653,884,blemished onion
+./img/left0211.jpg,669,806,751,888,blemished onion
+./img/left0211.jpg,752,792,819,886,unblemished onion
+./img/left0211.jpg,877,737,944,831,unblemished onion
+./img/left0211.jpg,950,807,1017,901,unblemished onion
+./img/left0211.jpg,547,739,659,823,glove
+./img/left0211.jpg,831,710,943,816,glove
+./img/left0211.jpg,1112,827,1205,969,glove
+./img/left0212.jpg,666,804,749,886,blemished onion
+./img/left0212.jpg,570,798,653,880,blemished onion
+./img/left0212.jpg,743,787,823,885,unblemished onion
+./img/left0212.jpg,865,741,946,838,unblemished onion
+./img/left0212.jpg,941,805,1021,902,unblemished onion
+./img/left0212.jpg,549,736,660,824,glove
+./img/left0212.jpg,837,711,940,848,glove
+./img/left0212.jpg,1099,826,1205,994,glove
+./img/left0214.jpg,669,806,751,888,blemished onion
+./img/left0214.jpg,573,791,655,873,blemished onion
+./img/left0214.jpg,745,794,821,881,unblemished onion
+./img/left0214.jpg,937,814,1013,902,unblemished onion
+./img/left0214.jpg,858,772,934,860,unblemished onion
+./img/left0214.jpg,553,729,652,828,glove
+./img/left0214.jpg,842,757,937,887,glove
+./img/left0214.jpg,1100,826,1204,970,glove
+./img/left0226.jpg,576,788,659,870,blemished onion
+./img/left0226.jpg,672,812,755,894,blemished onion
+./img/left0226.jpg,741,787,823,881,unblemished onion
+./img/left0226.jpg,849,771,931,865,unblemished onion
+./img/left0226.jpg,937,812,1018,906,unblemished onion
+./img/left0226.jpg,541,700,658,787,glove
+./img/left0226.jpg,1098,824,1198,967,glove
+./img/left0229.jpg,581,790,664,872,blemished onion
+./img/left0229.jpg,669,805,751,887,blemished onion
+./img/left0229.jpg,750,785,816,876,unblemished onion
+./img/left0229.jpg,842,787,924,873,unblemished onion
+./img/left0229.jpg,940,808,1022,895,unblemished onion
+./img/left0229.jpg,389,750,489,833,glove
+./img/left0229.jpg,1105,836,1205,979,glove
+./img/left0237.jpg,581,791,664,873,blemished onion
+./img/left0237.jpg,669,806,751,888,blemished onion
+./img/left0237.jpg,745,783,817,891,unblemished onion
+./img/left0237.jpg,839,779,924,879,unblemished onion
+./img/left0237.jpg,942,812,1013,902,unblemished onion
+./img/left0237.jpg,964,669,1111,798,glove
+./img/left0256.jpg,577,787,663,874,blemished onion
+./img/left0256.jpg,672,802,758,890,blemished onion
+./img/left0256.jpg,742,790,817,847,unblemished onion
+./img/left0256.jpg,841,778,922,878,unblemished onion
+./img/left0256.jpg,946,786,1030,874,unblemished onion
+./img/left0256.jpg,699,727,828,821,glove
+./img/left0256.jpg,1066,752,1143,863,glove
+./img/left0264.jpg,662,800,748,887,blemished onion
+./img/left0264.jpg,577,790,663,877,blemished onion
+./img/left0264.jpg,769,767,831,826,unblemished onion
+./img/left0264.jpg,838,785,930,873,unblemished onion
+./img/left0264.jpg,949,793,1030,881,unblemished onion
+./img/left0264.jpg,699,732,801,842,glove
+./img/left0266.jpg,667,800,753,887,blemished onion
+./img/left0266.jpg,577,786,663,873,blemished onion
+./img/left0266.jpg,771,763,839,845,unblemished onion
+./img/left0266.jpg,838,775,927,879,unblemished onion
+./img/left0266.jpg,953,792,1024,876,unblemished onion
+./img/left0266.jpg,699,745,798,864,glove
+./img/left0267.jpg,574,785,661,872,blemished onion
+./img/left0267.jpg,663,800,750,887,blemished onion
+./img/left0267.jpg,776,771,834,853,unblemished onion
+./img/left0267.jpg,834,775,927,882,unblemished onion
+./img/left0267.jpg,954,795,1028,882,unblemished onion
+./img/left0267.jpg,700,740,786,859,glove
+./img/left0274.jpg,666,801,752,889,blemished onion
+./img/left0274.jpg,574,787,661,874,blemished onion
+./img/left0274.jpg,754,786,822,855,unblemished onion
+./img/left0274.jpg,833,785,930,874,unblemished onion
+./img/left0274.jpg,952,800,1035,874,unblemished onion
+./img/left0274.jpg,690,723,781,826,glove
+./img/left0274.jpg,892,720,1013,798,glove
+./img/left0277.jpg,574,787,661,874,blemished onion
+./img/left0277.jpg,667,801,753,889,blemished onion
+./img/left0277.jpg,742,779,827,854,unblemished onion
+./img/left0277.jpg,841,786,929,874,unblemished onion
+./img/left0277.jpg,951,807,1035,894,unblemished onion
+./img/left0277.jpg,705,716,811,798,glove
+./img/left0277.jpg,835,645,924,728,glove
+./img/left0298.jpg,663,807,750,894,blemished onion
+./img/left0298.jpg,577,792,663,879,blemished onion
+./img/left0298.jpg,735,792,800,874,unblemished onion
+./img/left0298.jpg,805,816,893,903,unblemished onion
+./img/left0298.jpg,951,808,1028,886,unblemished onion
+./img/left0298.jpg,787,763,948,840,glove
+./img/left0306.jpg,577,787,663,874,blemished onion
+./img/left0306.jpg,658,805,745,892,blemished onion
+./img/left0306.jpg,731,793,799,865,unblemished onion
+./img/left0306.jpg,796,819,898,906,unblemished onion
+./img/left0306.jpg,952,810,1027,885,unblemished onion
+./img/left0306.jpg,902,730,1015,840,glove
+./img/left0326.jpg,570,792,656,880,blemished onion
+./img/left0326.jpg,727,783,796,875,unblemished onion
+./img/left0326.jpg,800,813,898,899,unblemished onion
+./img/left0326.jpg,955,819,1034,898,unblemished onion
+./img/left0326.jpg,670,809,740,875,unblemished onion
+./img/left0326.jpg,615,733,745,899,glove
+./img/left0326.jpg,896,626,1049,715,glove
+./img/left0331.jpg,577,821,622,885,unblemished onion
+./img/left0331.jpg,683,798,756,894,unblemished onion
+./img/left0331.jpg,724,788,799,868,unblemished onion
+./img/left0331.jpg,797,809,894,904,unblemished onion
+./img/left0331.jpg,937,807,1011,880,unblemished onion
+./img/left0331.jpg,575,763,749,908,glove
+./img/left0335.jpg,664,793,727,903,unblemished onion
+./img/left0335.jpg,718,787,800,868,unblemished onion
+./img/left0335.jpg,800,813,898,910,unblemished onion
+./img/left0335.jpg,940,800,1027,885,unblemished onion
+./img/left0335.jpg,554,752,718,920,glove
+./img/left0337.jpg,663,818,723,912,blemished onion
+./img/left0337.jpg,721,794,799,864,unblemished onion
+./img/left0337.jpg,805,817,891,899,unblemished onion
+./img/left0337.jpg,935,801,1030,871,unblemished onion
+./img/left0337.jpg,554,759,711,921,glove
+./img/left0344.jpg,664,830,720,913,blemished onion
+./img/left0344.jpg,718,792,802,868,unblemished onion
+./img/left0344.jpg,800,810,898,910,unblemished onion
+./img/left0344.jpg,936,821,1022,899,unblemished onion
+./img/left0344.jpg,541,754,681,923,glove
+./img/left0344.jpg,810,714,930,804,glove
+./img/left0345.jpg,647,825,723,919,blemished onion
+./img/left0345.jpg,727,791,804,876,unblemished onion
+./img/left0345.jpg,801,827,898,912,unblemished onion
+./img/left0345.jpg,930,812,1018,894,unblemished onion
+./img/left0345.jpg,536,751,677,923,glove
+./img/left0345.jpg,810,722,922,838,glove
+./img/left0354.jpg,576,790,664,886,blemished onion
+./img/left0354.jpg,640,822,727,918,blemished onion
+./img/left0354.jpg,727,787,808,873,unblemished onion
+./img/left0354.jpg,922,539,971,606,unblemished onion
+./img/left0354.jpg,945,816,1022,900,unblemished onion
+./img/left0354.jpg,472,704,561,771,glove
+./img/left0354.jpg,876,532,939,693,glove
+./img/left0361.jpg,640,822,727,918,blemished onion
+./img/left0361.jpg,576,782,664,878,blemished onion
+./img/left0361.jpg,730,797,807,873,unblemished onion
+./img/left0361.jpg,934,797,1021,891,unblemished onion
+./img/left0361.jpg,508,711,621,767,glove
+./img/left0361.jpg,893,510,995,688,glove
+./img/left0364.jpg,642,822,730,918,blemished onion
+./img/left0364.jpg,575,785,663,881,blemished onion
+./img/left0364.jpg,722,799,816,874,unblemished onion
+./img/left0364.jpg,935,813,1020,887,unblemished onion
+./img/left0364.jpg,938,493,988,553,unblemished onion
+./img/left0364.jpg,506,710,674,794,glove
+./img/left0364.jpg,895,518,974,682,glove
+./img/left0373.jpg,574,782,661,878,blemished onion
+./img/left0373.jpg,640,822,727,918,blemished onion
+./img/left0373.jpg,728,797,812,879,unblemished onion
+./img/left0373.jpg,931,805,1022,888,unblemished onion
+./img/left0373.jpg,910,524,985,618,unblemished onion
+./img/left0373.jpg,539,726,642,814,glove
+./img/left0373.jpg,894,517,983,673,glove
+./img/left0376.jpg,643,829,727,912,blemished onion
+./img/left0376.jpg,578,801,662,884,blemished onion
+./img/left0376.jpg,723,791,810,869,unblemished onion
+./img/left0376.jpg,939,819,1021,894,unblemished onion
+./img/left0376.jpg,915,515,1000,608,unblemished onion
+./img/left0376.jpg,513,744,663,840,glove
+./img/left0376.jpg,892,503,971,670,glove
+./img/left0384.jpg,639,829,723,912,blemished onion
+./img/left0384.jpg,625,779,680,841,unblemished onion
+./img/left0384.jpg,717,799,804,887,unblemished onion
+./img/left0384.jpg,936,811,1012,882,unblemished onion
+./img/left0384.jpg,887,511,948,568,unblemished onion
+./img/left0384.jpg,517,756,672,869,glove
+./img/left0384.jpg,881,501,981,688,glove
+./img/left0389.jpg,637,820,726,913,blemished onion
+./img/left0389.jpg,606,770,675,863,unblemished onion
+./img/left0389.jpg,721,787,804,861,unblemished onion
+./img/left0389.jpg,829,703,922,795,unblemished onion
+./img/left0389.jpg,933,826,1023,887,unblemished onion
+./img/left0389.jpg,481,740,653,867,glove
+./img/left0389.jpg,812,683,892,782,glove
+./img/left0393.jpg,639,822,728,915,blemished onion
+./img/left0393.jpg,579,774,668,867,blemished onion
+./img/left0393.jpg,716,794,807,870,unblemished onion
+./img/left0393.jpg,822,811,905,886,unblemished onion
+./img/left0393.jpg,935,815,1020,893,unblemished onion
+./img/left0393.jpg,451,722,593,811,glove
+./img/left0393.jpg,811,753,915,850,glove
+./img/left0397.jpg,638,823,727,916,blemished onion
+./img/left0397.jpg,590,779,679,872,blemished onion
+./img/left0397.jpg,729,799,806,873,unblemished onion
+./img/left0397.jpg,806,817,902,893,unblemished onion
+./img/left0397.jpg,940,818,1015,887,unblemished onion
+./img/left0397.jpg,441,810,521,911,glove
+./img/left0397.jpg,808,761,915,864,glove
+./img/left0410.jpg,582,766,665,865,blemished onion
+./img/left0410.jpg,641,813,724,914,blemished onion
+./img/left0410.jpg,724,788,807,870,unblemished onion
+./img/left0410.jpg,850,810,934,888,unblemished onion
+./img/left0410.jpg,936,813,1012,882,unblemished onion
+./img/left0410.jpg,927,733,1022,861,glove
+./img/left0420.jpg,642,818,725,917,blemished onion
+./img/left0420.jpg,585,773,667,874,blemished onion
+./img/left0420.jpg,729,792,802,875,unblemished onion
+./img/left0420.jpg,853,812,951,898,unblemished onion
+./img/left0420.jpg,947,720,1011,794,unblemished onion
+./img/left0420.jpg,665,674,821,775,glove
+./img/left0420.jpg,917,709,1031,811,glove
+./img/left0429.jpg,639,820,721,919,blemished onion
+./img/left0429.jpg,591,767,673,866,blemished onion
+./img/left0429.jpg,778,768,827,843,unblemished onion
+./img/left0429.jpg,851,803,946,886,unblemished onion
+./img/left0429.jpg,901,537,958,587,unblemished onion
+./img/left0429.jpg,695,714,846,852,glove
+./img/left0429.jpg,908,558,984,711,glove
+./img/left0436.jpg,639,821,721,920,blemished onion
+./img/left0436.jpg,582,769,665,868,blemished onion
+./img/left0436.jpg,742,787,817,875,unblemished onion
+./img/left0436.jpg,847,805,945,894,unblemished onion
+./img/left0436.jpg,948,545,1012,616,unblemished onion
+./img/left0436.jpg,677,682,822,810,glove
+./img/left0436.jpg,880,529,987,664,glove
+./img/left0439.jpg,585,772,667,873,blemished onion
+./img/left0439.jpg,641,821,724,920,blemished onion
+./img/left0439.jpg,740,800,819,885,unblemished onion
+./img/left0439.jpg,835,810,930,897,unblemished onion
+./img/left0439.jpg,948,551,1012,627,unblemished onion
+./img/left0439.jpg,575,620,698,739,glove
+./img/left0439.jpg,893,528,978,682,glove
+./img/left0441.jpg,587,763,670,862,blemished onion
+./img/left0441.jpg,642,822,725,921,blemished onion
+./img/left0441.jpg,736,798,823,876,unblemished onion
+./img/left0441.jpg,838,805,942,904,unblemished onion
+./img/left0441.jpg,947,543,1015,613,unblemished onion
+./img/left0441.jpg,577,685,682,776,glove
+./img/left0441.jpg,884,528,966,677,glove
+./img/left0443.jpg,578,778,669,859,blemished onion
+./img/left0443.jpg,637,831,728,912,blemished onion
+./img/left0443.jpg,745,790,817,875,unblemished onion
+./img/left0443.jpg,853,799,949,898,unblemished onion
+./img/left0443.jpg,941,532,1005,605,unblemished onion
+./img/left0443.jpg,602,691,704,768,glove
+./img/left0443.jpg,895,532,971,692,glove
+./img/left0457.jpg,636,832,727,913,blemished onion
+./img/left0457.jpg,582,778,673,859,blemished onion
+./img/left0457.jpg,740,804,826,880,unblemished onion
+./img/left0457.jpg,841,804,934,893,unblemished onion
+./img/left0457.jpg,952,510,1008,575,unblemished onion
+./img/left0457.jpg,694,714,812,864,glove
+./img/left0457.jpg,904,508,988,688,glove
+./img/left0468.jpg,579,772,669,863,blemished onion
+./img/left0468.jpg,636,828,726,919,blemished onion
+./img/left0468.jpg,744,800,810,876,unblemished onion
+./img/left0468.jpg,839,805,931,900,unblemished onion
+./img/left0468.jpg,960,839,1036,920,unblemished onion
+./img/left0468.jpg,663,738,821,887,glove
+./img/left0468.jpg,919,742,1028,895,glove
+./img/left0485.jpg,631,827,729,913,blemished onion
+./img/left0485.jpg,574,776,673,864,blemished onion
+./img/left0485.jpg,730,793,812,881,unblemished onion
+./img/left0485.jpg,837,816,921,893,unblemished onion
+./img/left0485.jpg,941,824,1031,916,unblemished onion
+./img/left0485.jpg,853,720,978,875,glove
+./img/left0494.jpg,582,777,672,866,blemished onion
+./img/left0494.jpg,635,827,725,918,blemished onion
+./img/left0494.jpg,722,797,818,883,unblemished onion
+./img/left0494.jpg,931,831,1045,922,unblemished onion
+./img/left0494.jpg,959,446,1044,539,unblemished onion
+./img/left0494.jpg,641,650,728,745,glove
+./img/left0494.jpg,933,718,1065,805,glove
+./img/left0494.jpg,986,452,1110,628,glove
+./img/left0497.jpg,635,824,725,915,blemished onion
+./img/left0497.jpg,581,771,671,862,blemished onion
+./img/left0497.jpg,735,794,813,875,unblemished onion
+./img/left0497.jpg,940,829,1030,903,unblemished onion
+./img/left0497.jpg,983,453,1063,522,unblemished onion
+./img/left0497.jpg,675,698,796,818,glove
+./img/left0497.jpg,927,733,1075,803,glove
+./img/left0497.jpg,1021,444,1107,615,glove
+./img/left0504.jpg,695,744,821,845,glove
+./img/left0504.jpg,929,750,1072,818,glove
+./img/left0504.jpg,1027,480,1115,639,glove
+./img/left0504.jpg,576,771,678,863,blemished onion
+./img/left0504.jpg,633,832,735,920,blemished onion
+./img/left0504.jpg,934,821,1029,914,unblemished onion
+./img/left0504.jpg,737,782,832,875,unblemished onion
+./img/left0504.jpg,1036,452,1116,539,unblemished onion
+./img/left0531.jpg,695,740,804,855,glove
+./img/left0531.jpg,1002,510,1110,678,glove
+./img/left0531.jpg,580,766,672,866,blemished onion
+./img/left0531.jpg,636,817,727,917,blemished onion
+./img/left0531.jpg,944,827,1035,929,unblemished onion
+./img/left0531.jpg,735,789,825,868,unblemished onion
+./img/left0531.jpg,964,515,1054,594,unblemished onion
+./img/left0542.jpg,437,669,522,765,glove
+./img/left0542.jpg,902,721,1060,821,glove
+./img/left0542.jpg,575,770,674,867,blemished onion
+./img/left0542.jpg,629,823,728,920,blemished onion
+./img/left0542.jpg,800,797,899,894,unblemished onion
+./img/left0542.jpg,747,778,815,865,unblemished onion
+./img/left0542.jpg,945,828,1023,914,unblemished onion
+./img/left0571.jpg,522,736,675,855,glove
+./img/left0571.jpg,1007,498,1095,669,glove
+./img/left0571.jpg,624,747,680,827,unblemished onion
+./img/left0571.jpg,747,785,815,863,unblemished onion
+./img/left0571.jpg,811,801,900,887,unblemished onion
+./img/left0571.jpg,1017,477,1081,530,unblemished onion
+./img/left0571.jpg,631,824,728,920,blemished onion
+./img/left0574.jpg,504,764,659,879,glove
+./img/left0574.jpg,1024,494,1092,663,glove
+./img/left0574.jpg,634,826,729,909,blemished onion
+./img/left0574.jpg,605,768,676,858,unblemished onion
+./img/left0574.jpg,742,775,825,862,unblemished onion
+./img/left0574.jpg,815,795,898,882,unblemished onion
+./img/left0574.jpg,1048,474,1117,545,unblemished onion
+./img/left0580.jpg,487,745,633,868,glove
+./img/left0580.jpg,1019,555,1121,680,glove
+./img/left0580.jpg,584,781,666,865,blemished onion
+./img/left0580.jpg,638,831,727,916,blemished onion
+./img/left0580.jpg,737,777,821,870,unblemished onion
+./img/left0580.jpg,811,791,895,884,unblemished onion
+./img/left0580.jpg,1020,516,1104,591,unblemished onion
+./img/left0585.jpg,475,675,587,767,glove
+./img/left0585.jpg,1017,551,1090,704,glove
+./img/left0585.jpg,570,770,661,862,blemished onion
+./img/left0585.jpg,637,826,728,918,blemished onion
+./img/left0585.jpg,813,799,904,891,unblemished onion
+./img/left0585.jpg,746,782,819,869,unblemished onion
+./img/left0585.jpg,1009,544,1082,631,unblemished onion
+./img/left0593.jpg,480,690,619,814,glove
+./img/left0593.jpg,1002,570,1105,712,glove
+./img/left0593.jpg,575,770,659,862,blemished onion
+./img/left0593.jpg,631,831,730,921,blemished onion
+./img/left0593.jpg,805,796,904,886,unblemished onion
+./img/left0593.jpg,747,784,818,870,unblemished onion
+./img/left0593.jpg,998,550,1069,636,unblemished onion
+./img/left0597.jpg,521,745,693,941,glove
+./img/left0597.jpg,934,692,1086,805,glove
+./img/left0597.jpg,628,834,733,918,blemished onion
+./img/left0597.jpg,743,783,813,874,unblemished onion
+./img/left0597.jpg,813,795,899,893,unblemished onion
+./img/left0597.jpg,922,728,983,826,unblemished onion
+./img/left0599.jpg,563,775,694,940,glove
+./img/left0599.jpg,953,720,1076,863,glove
+./img/left0599.jpg,645,820,730,930,blemished onion
+./img/left0599.jpg,740,781,817,867,unblemished onion
+./img/left0599.jpg,817,798,893,891,unblemished onion
+./img/left0599.jpg,922,782,985,874,unblemished onion
+./img/left0602.jpg,581,757,719,937,glove
+./img/left0602.jpg,964,740,1087,891,glove
+./img/left0602.jpg,659,797,739,906,blemished onion
+./img/left0602.jpg,742,779,813,862,unblemished onion
+./img/left0602.jpg,814,798,899,885,unblemished onion
+./img/left0602.jpg,931,826,1004,909,unblemished onion
+./img/left0610.jpg,571,760,748,874,glove
+./img/left0610.jpg,954,721,1080,824,glove
+./img/left0610.jpg,577,815,648,875,blemished onion
+./img/left0610.jpg,639,821,733,900,unblemished onion
+./img/left0610.jpg,729,781,823,860,unblemished onion
+./img/left0610.jpg,806,804,900,883,unblemished onion
+./img/left0610.jpg,899,815,993,894,unblemished onion
+./img/left0619.jpg,568,655,737,792,glove
+./img/left0619.jpg,807,704,975,893,glove
+./img/left0619.jpg,569,769,666,863,blemished onion
+./img/left0619.jpg,653,808,745,904,unblemished onion
+./img/left0619.jpg,914,820,994,909,unblemished onion
+./img/left0619.jpg,747,779,827,868,unblemished onion
+./img/left0619.jpg,802,817,884,893,unblemished onion
+./img/left0634.jpg,480,687,623,756,glove
+./img/left0634.jpg,959,545,1068,709,glove
+./img/left0634.jpg,570,765,666,867,blemished onion
+./img/left0634.jpg,654,809,751,908,unblemished onion
+./img/left0634.jpg,901,812,998,911,unblemished onion
+./img/left0634.jpg,743,779,822,869,unblemished onion
+./img/left0634.jpg,948,520,1027,610,unblemished onion
+./img/left0636.jpg,498,683,639,773,glove
+./img/left0636.jpg,953,544,1069,692,glove
+./img/left0636.jpg,577,764,672,863,blemished onion
+./img/left0636.jpg,654,805,751,903,unblemished onion
+./img/left0636.jpg,913,818,994,910,unblemished onion
+./img/left0636.jpg,747,781,824,865,unblemished onion
+./img/left0636.jpg,921,535,998,619,unblemished onion
+./img/left0640.jpg,581,662,690,745,glove
+./img/left0640.jpg,822,656,1001,761,glove
+./img/left0640.jpg,577,767,671,869,blemished onion
+./img/left0640.jpg,659,806,747,899,unblemished onion
+./img/left0640.jpg,747,786,824,867,unblemished onion
+./img/left0640.jpg,914,821,991,902,unblemished onion
+./img/left0640.jpg,825,716,915,801,unblemished onion
+./img/left0646.jpg,522,691,653,787,glove
+./img/left0646.jpg,791,702,963,876,glove
+./img/left0646.jpg,578,773,668,861,blemished onion
+./img/left0646.jpg,653,801,747,901,unblemished onion
+./img/left0646.jpg,805,824,899,917,unblemished onion
+./img/left0646.jpg,910,821,993,904,unblemished onion
+./img/left0646.jpg,741,791,819,858,unblemished onion
+./img/left0651.jpg,522,712,654,809,glove
+./img/left0651.jpg,775,691,983,861,glove
+./img/left0651.jpg,575,765,663,864,blemished onion
+./img/left0651.jpg,657,803,745,906,unblemished onion
+./img/left0651.jpg,813,824,901,927,unblemished onion
+./img/left0651.jpg,912,820,995,911,unblemished onion
+./img/left0651.jpg,747,782,820,863,unblemished onion
+./img/left0658.jpg,538,723,661,817,glove
+./img/left0658.jpg,951,669,1105,751,glove
+./img/left0658.jpg,576,769,660,863,blemished onion
+./img/left0658.jpg,651,808,749,904,unblemished onion
+./img/left0658.jpg,810,822,908,918,unblemished onion
+./img/left0658.jpg,743,784,814,869,unblemished onion
+./img/left0658.jpg,911,816,990,910,unblemished onion
+./img/left0659.jpg,525,726,670,824,glove
+./img/left0659.jpg,1039,682,1139,783,glove
+./img/left0659.jpg,582,777,664,879,blemished onion
+./img/left0659.jpg,655,810,743,903,unblemished onion
+./img/left0659.jpg,809,819,897,912,unblemished onion
+./img/left0659.jpg,907,817,995,910,unblemished onion
+./img/left0659.jpg,738,777,826,870,unblemished onion
+./img/left0661.jpg,540,723,652,832,glove
+./img/left0661.jpg,913,733,1028,804,glove
+./img/left0661.jpg,1089,744,1180,872,glove
+./img/left0661.jpg,581,788,668,865,blemished onion
+./img/left0661.jpg,657,803,746,910,unblemished onion
+./img/left0661.jpg,736,786,821,862,unblemished onion
+./img/left0661.jpg,802,814,901,908,unblemished onion
+./img/left0661.jpg,905,817,998,906,unblemished onion
+./img/left0673.jpg,521,694,669,850,glove
+./img/left0673.jpg,918,776,1035,905,glove
+./img/left0673.jpg,1095,809,1218,950,glove
+./img/left0673.jpg,577,777,666,875,blemished onion
+./img/left0673.jpg,657,798,745,899,unblemished onion
+./img/left0673.jpg,811,818,899,919,unblemished onion
+./img/left0673.jpg,748,782,818,861,unblemished onion
+./img/left0673.jpg,926,826,996,905,unblemished onion
+./img/left0674.jpg,545,700,673,860,glove
+./img/left0674.jpg,892,750,1027,901,glove
+./img/left0674.jpg,1110,820,1210,968,glove
+./img/left0674.jpg,581,783,676,881,blemished onion
+./img/left0674.jpg,659,810,749,908,unblemished onion
+./img/left0674.jpg,807,823,897,921,unblemished onion
+./img/left0674.jpg,925,827,1012,918,unblemished onion
+./img/left0674.jpg,741,780,828,871,unblemished onion
+./img/left0685.jpg,471,666,589,763,glove
+./img/left0685.jpg,898,511,997,686,glove
+./img/left0685.jpg,1092,820,1211,968,glove
+./img/left0685.jpg,581,781,668,877,blemished onion
+./img/left0685.jpg,652,809,743,901,unblemished onion
+./img/left0685.jpg,809,819,900,911,unblemished onion
+./img/left0685.jpg,740,784,817,864,unblemished onion
+./img/left0685.jpg,933,516,998,581,unblemished onion
+./img/left0696.jpg,535,659,645,752,glove
+./img/left0696.jpg,894,503,975,673,glove
+./img/left0696.jpg,1105,809,1194,950,glove
+./img/left0696.jpg,575,788,680,883,blemished onion
+./img/left0696.jpg,658,821,736,898,unblemished onion
+./img/left0696.jpg,810,826,900,911,unblemished onion
+./img/left0696.jpg,742,776,822,857,unblemished onion
+./img/left0696.jpg,895,500,969,566,unblemished onion
+./img/left0706.jpg,720,731,798,804,glove
+./img/left0706.jpg,877,616,970,715,glove
+./img/left0706.jpg,590,791,669,876,blemished onion
+./img/left0706.jpg,662,813,736,895,unblemished onion
+./img/left0706.jpg,753,795,809,856,unblemished onion
+./img/left0706.jpg,817,830,897,909,unblemished onion
+./img/left0706.jpg,899,615,943,665,unblemished onion
+./img/left0711.jpg,729,762,823,839,glove
+./img/left0711.jpg,915,584,988,697,glove
+./img/left0711.jpg,589,790,656,869,blemished onion
+./img/left0711.jpg,664,815,736,893,unblemished onion
+./img/left0711.jpg,758,795,814,860,unblemished onion
+./img/left0711.jpg,814,824,897,907,unblemished onion
+./img/left0711.jpg,917,587,970,636,unblemished onion
+./img/left0714.jpg,713,703,808,821,glove
+./img/left0714.jpg,1016,558,1093,663,glove
+./img/left0714.jpg,594,794,663,874,blemished onion
+./img/left0714.jpg,667,815,739,896,unblemished onion
+./img/left0714.jpg,738,775,785,831,unblemished onion
+./img/left0714.jpg,811,825,899,906,unblemished onion
+./img/left0714.jpg,1029,556,1082,604,unblemished onion
+./img/left0716.jpg,727,718,796,837,glove
+./img/left0716.jpg,1063,560,1132,694,glove
+./img/left0716.jpg,592,792,664,868,blemished onion
+./img/left0716.jpg,664,818,738,896,unblemished onion
+./img/left0716.jpg,735,786,773,839,unblemished onion
+./img/left0716.jpg,808,827,896,906,unblemished onion
+./img/left0716.jpg,1064,566,1129,601,unblemished onion
+./img/left0719.jpg,723,727,807,851,glove
+./img/left0719.jpg,1084,548,1152,677,glove
+./img/left0719.jpg,591,787,666,865,blemished onion
+./img/left0719.jpg,665,813,738,895,unblemished onion
+./img/left0719.jpg,732,798,786,851,unblemished onion
+./img/left0719.jpg,811,828,900,901,unblemished onion
+./img/left0719.jpg,1093,554,1139,598,unblemished onion
+./img/left0737.jpg,492,684,575,760,glove
+./img/left0737.jpg,911,808,1020,901,glove
+./img/left0737.jpg,590,795,652,865,blemished onion
+./img/left0737.jpg,664,818,736,895,unblemished onion
+./img/left0737.jpg,736,798,800,860,unblemished onion
+./img/left0737.jpg,812,825,902,903,unblemished onion
+./img/left0737.jpg,943,825,1000,898,unblemished onion
+./img/left0741.jpg,498,702,591,763,glove
+./img/left0741.jpg,902,756,1010,830,glove
+./img/left0741.jpg,587,792,655,867,blemished onion
+./img/left0741.jpg,667,821,739,893,unblemished onion
+./img/left0741.jpg,739,795,806,862,unblemished onion
+./img/left0741.jpg,817,825,903,907,unblemished onion
+./img/left0741.jpg,921,834,994,906,unblemished onion
+./img/left0757.jpg,598,754,706,875,glove
+./img/left0757.jpg,583,804,620,860,unblemished onion
+./img/left0757.jpg,632,799,706,868,unblemished onion
+./img/left0757.jpg,735,787,805,854,unblemished onion
+./img/left0757.jpg,815,821,896,904,unblemished onion
+./img/left0757.jpg,899,839,961,913,unblemished onion
+./img/left0764.jpg,588,771,702,899,glove
+./img/left0764.jpg,596,827,680,906,unblemished onion
+./img/left0764.jpg,727,792,802,860,unblemished onion
+./img/left0764.jpg,809,830,900,915,unblemished onion
+./img/left0764.jpg,926,834,993,909,unblemished onion
+./img/left0766.jpg,576,766,698,888,glove
+./img/left0766.jpg,589,821,679,903,unblemished onion
+./img/left0766.jpg,730,792,805,859,unblemished onion
+./img/left0766.jpg,823,771,893,836,unblemished onion
+./img/left0766.jpg,914,836,983,906,unblemished onion
+./img/left0771.jpg,568,730,693,845,glove
+./img/left0771.jpg,591,833,677,910,unblemished onion
+./img/left0771.jpg,729,798,806,856,unblemished onion
+./img/left0771.jpg,858,792,911,862,unblemished onion
+./img/left0771.jpg,911,842,976,910,unblemished onion
+./img/left0776.jpg,497,629,606,699,glove
+./img/left0776.jpg,591,788,661,845,blemished onion
+./img/left0776.jpg,597,837,671,915,unblemished onion
+./img/left0776.jpg,730,795,800,857,unblemished onion
+./img/left0776.jpg,852,787,914,871,unblemished onion
+./img/left0776.jpg,906,837,970,903,unblemished onion
+./img/left0778.jpg,503,689,605,749,glove
+./img/left0778.jpg,589,792,658,844,blemished onion
+./img/left0778.jpg,591,837,674,913,unblemished onion
+./img/left0778.jpg,729,793,802,860,unblemished onion
+./img/left0778.jpg,830,787,902,862,unblemished onion
+./img/left0778.jpg,912,837,977,910,unblemished onion
+./img/left0790.jpg,520,674,600,742,glove
+./img/left0790.jpg,584,797,663,839,blemished onion
+./img/left0790.jpg,589,834,673,909,unblemished onion
+./img/left0790.jpg,732,795,799,859,unblemished onion
+./img/left0790.jpg,847,790,914,866,unblemished onion
+./img/left0790.jpg,914,837,977,907,unblemished onion
+./img/left0796.jpg,491,722,636,831,glove
+./img/left0796.jpg,591,795,661,841,blemished onion
+./img/left0796.jpg,597,839,673,912,unblemished onion
+./img/left0796.jpg,729,789,806,859,unblemished onion
+./img/left0796.jpg,835,787,906,865,unblemished onion
+./img/left0796.jpg,911,834,979,906,unblemished onion
+./img/left0802.jpg,561,788,677,913,glove
+./img/left0802.jpg,729,796,796,863,unblemished onion
+./img/left0802.jpg,588,825,672,909,unblemished onion
+./img/left0802.jpg,843,790,914,861,unblemished onion
+./img/left0802.jpg,906,822,974,890,unblemished onion
+./img/left0819.jpg,572,759,668,873,glove
+./img/left0819.jpg,590,859,664,907,blemished onion
+./img/left0819.jpg,738,796,799,857,unblemished onion
+./img/left0819.jpg,836,793,909,866,unblemished onion
+./img/left0819.jpg,949,836,1023,910,unblemished onion
+./img/left0820.jpg,571,761,669,872,glove
+./img/left0820.jpg,578,856,673,901,blemished onion
+./img/left0820.jpg,733,796,793,856,unblemished onion
+./img/left0820.jpg,843,786,917,860,unblemished onion
+./img/left0820.jpg,950,833,1017,900,unblemished onion
+./img/left0821.jpg,572,738,666,868,glove
+./img/left0821.jpg,579,845,671,902,blemished onion
+./img/left0821.jpg,730,789,803,862,unblemished onion
+./img/left0821.jpg,838,786,915,863,unblemished onion
+./img/left0821.jpg,947,828,1015,896,unblemished onion
+./img/left0822.jpg,571,736,664,862,glove
+./img/left0822.jpg,579,837,673,901,blemished onion
+./img/left0822.jpg,726,795,799,868,unblemished onion
+./img/left0822.jpg,835,790,907,862,unblemished onion
+./img/left0822.jpg,946,821,1018,893,unblemished onion
+./img/left0824.jpg,569,730,659,848,glove
+./img/left0824.jpg,576,833,664,904,blemished onion
+./img/left0824.jpg,726,792,791,857,unblemished onion
+./img/left0824.jpg,838,793,907,862,unblemished onion
+./img/left0824.jpg,944,821,1010,887,unblemished onion
+./img/left0825.jpg,566,729,660,848,glove
+./img/left0825.jpg,577,839,668,905,blemished onion
+./img/left0825.jpg,735,787,809,861,unblemished onion
+./img/left0825.jpg,836,784,911,859,unblemished onion
+./img/left0825.jpg,946,816,1026,896,unblemished onion
+./img/left0832.jpg,566,731,660,839,glove
+./img/left0832.jpg,851,671,951,738,glove
+./img/left0832.jpg,576,826,662,901,blemished onion
+./img/left0832.jpg,732,793,811,857,unblemished onion
+./img/left0832.jpg,839,789,914,866,unblemished onion
+./img/left0832.jpg,944,830,1014,899,unblemished onion
+./img/left0833.jpg,552,731,666,840,glove
+./img/left0833.jpg,831,679,930,746,glove
+./img/left0833.jpg,576,826,664,899,blemished onion
+./img/left0833.jpg,718,796,799,853,unblemished onion
+./img/left0833.jpg,839,790,911,869,unblemished onion
+./img/left0833.jpg,939,828,1014,904,unblemished onion
+./img/left0840.jpg,581,762,697,869,glove
+./img/left0840.jpg,831,752,911,851,glove
+./img/left0840.jpg,617,821,685,895,blemished onion
+./img/left0840.jpg,730,796,797,863,unblemished onion
+./img/left0840.jpg,841,792,914,865,unblemished onion
+./img/left0840.jpg,955,837,1022,904,unblemished onion
+./img/left0848.jpg,654,728,749,854,glove
+./img/left0848.jpg,861,603,931,724,glove
+./img/left0848.jpg,589,795,663,870,blemished onion
+./img/left0848.jpg,652,806,720,893,blemished onion
+./img/left0848.jpg,736,787,803,854,unblemished onion
+./img/left0848.jpg,944,831,1017,904,unblemished onion
+./img/left0848.jpg,862,587,914,639,unblemished onion
+./img/left0885.jpg,507,458,620,584,glove
+./img/left0885.jpg,851,745,948,863,glove
+./img/left0885.jpg,638,804,714,891,blemished onion
+./img/left0885.jpg,541,478,614,546,unblemished onion
+./img/left0885.jpg,727,798,811,857,unblemished onion
+./img/left0885.jpg,876,789,958,875,unblemished onion
+./img/left0885.jpg,1052,487,1100,553,unblemished onion
+./img/left0888.jpg,505,470,610,592,glove
+./img/left0888.jpg,851,751,953,855,glove
+./img/left0888.jpg,638,804,715,892,blemished onion
+./img/left0888.jpg,562,481,655,546,unblemished onion
+./img/left0888.jpg,727,792,800,863,unblemished onion
+./img/left0888.jpg,873,787,944,868,unblemished onion
+./img/left0888.jpg,1058,501,1114,551,unblemished onion
+./img/left0895.jpg,547,491,676,547,glove
+./img/left0895.jpg,858,743,946,846,glove
+./img/left0895.jpg,636,803,717,888,blemished onion
+./img/left0895.jpg,729,793,802,854,unblemished onion
+./img/left0895.jpg,611,501,683,563,unblemished onion
+./img/left0895.jpg,868,784,939,869,unblemished onion
+./img/left0895.jpg,1067,498,1117,553,unblemished onion
+./img/left0910.jpg,499,561,604,658,glove
+./img/left0910.jpg,852,751,940,854,glove
+./img/left0910.jpg,640,805,717,886,blemished onion
+./img/left0910.jpg,729,789,806,860,unblemished onion
+./img/left0910.jpg,867,789,936,869,unblemished onion
+./img/left0910.jpg,1026,481,1086,553,unblemished onion
+./img/left0910.jpg,730,466,805,533,unblemished onion
+./img/left0914.jpg,554,529,657,631,glove
+./img/left0914.jpg,853,752,932,852,glove
+./img/left0914.jpg,636,800,710,892,blemished onion
+./img/left0914.jpg,650,510,717,581,unblemished onion
+./img/left0914.jpg,736,795,796,854,unblemished onion
+./img/left0914.jpg,877,790,938,868,unblemished onion
+./img/left0914.jpg,1012,701,1086,739,unblemished onion
+./img/left0915.jpg,561,524,655,638,glove
+./img/left0915.jpg,849,746,936,851,glove
+./img/left0915.jpg,640,803,720,886,blemished onion
+./img/left0915.jpg,649,522,708,596,unblemished onion
+./img/left0915.jpg,732,792,793,857,unblemished onion
+./img/left0915.jpg,883,778,935,872,unblemished onion
+./img/left0915.jpg,1006,754,1061,818,unblemished onion
+./img/left0923.jpg,564,495,628,624,glove
+./img/left0923.jpg,856,758,927,859,glove
+./img/left0923.jpg,639,808,717,889,blemished onion
+./img/left0923.jpg,602,499,679,563,unblemished onion
+./img/left0923.jpg,727,790,805,865,unblemished onion
+./img/left0923.jpg,873,784,949,866,unblemished onion
+./img/left0923.jpg,953,827,1006,896,unblemished onion
+./img/left0949.jpg,599,541,711,633,glove
+./img/left0949.jpg,927,670,1006,749,glove
+./img/left0949.jpg,636,813,717,889,blemished onion
+./img/left0949.jpg,643,507,715,568,unblemished onion
+./img/left0949.jpg,732,790,805,859,unblemished onion
+./img/left0949.jpg,930,821,988,884,unblemished onion
+./img/left0949.jpg,983,677,1044,756,unblemished onion
+./img/left0969.jpg,564,742,652,835,glove
+./img/left0969.jpg,643,806,714,889,blemished onion
+./img/left0969.jpg,727,795,800,857,unblemished onion
+./img/left0969.jpg,826,801,902,863,unblemished onion
+./img/left0969.jpg,926,819,985,884,unblemished onion
+./img/left0972.jpg,575,766,672,858,glove
+./img/left0972.jpg,646,815,714,890,blemished onion
+./img/left0972.jpg,723,799,793,856,unblemished onion
+./img/left0972.jpg,824,801,903,869,unblemished onion
+./img/left0972.jpg,921,815,993,890,unblemished onion
+./img/left0976.jpg,546,746,653,862,glove
+./img/left0976.jpg,604,780,667,858,blemished onion
+./img/left0976.jpg,632,822,716,887,blemished onion
+./img/left0976.jpg,733,806,791,868,unblemished onion
+./img/left0976.jpg,850,789,923,866,unblemished onion
+./img/left0976.jpg,930,821,997,890,unblemished onion
+./img/left0982.jpg,461,659,570,736,glove
+./img/left0982.jpg,588,783,664,855,blemished onion
+./img/left0982.jpg,639,815,709,883,blemished onion
+./img/left0982.jpg,729,454,791,515,unblemished onion
+./img/left0982.jpg,839,786,912,865,unblemished onion
+./img/left0982.jpg,983,695,1044,754,unblemished onion
+./img/left0983.jpg,467,658,574,731,glove
+./img/left0983.jpg,593,780,666,856,blemished onion
+./img/left0983.jpg,635,816,713,892,blemished onion
+./img/left0983.jpg,743,448,797,501,unblemished onion
+./img/left0983.jpg,844,786,917,868,unblemished onion
+./img/left0983.jpg,1005,615,1064,675,unblemished onion
+./img/left1000.jpg,558,503,651,589,glove
+./img/left1000.jpg,600,775,664,857,blemished onion
+./img/left1000.jpg,638,809,714,883,blemished onion
+./img/left1000.jpg,844,790,911,863,unblemished onion
+./img/left1000.jpg,614,515,682,568,unblemished onion
+./img/left1000.jpg,1032,430,1080,490,unblemished onion
+./img/left1001.jpg,561,503,655,596,glove
+./img/left1001.jpg,594,783,663,850,blemished onion
+./img/left1001.jpg,638,806,715,888,blemished onion
+./img/left1001.jpg,836,784,917,865,unblemished onion
+./img/left1001.jpg,1036,437,1089,477,unblemished onion
+./img/left1001.jpg,609,512,689,568,unblemished onion
+./img/left1002.jpg,568,502,660,593,glove
+./img/left1002.jpg,593,779,671,858,blemished onion
+./img/left1002.jpg,643,811,712,883,blemished onion
+./img/left1002.jpg,833,795,914,853,unblemished onion
+./img/left1002.jpg,606,516,671,577,unblemished onion
+./img/left1004.jpg,550,486,666,580,glove
+./img/left1004.jpg,596,784,670,859,blemished onion
+./img/left1004.jpg,638,812,717,883,blemished onion
+./img/left1004.jpg,838,786,917,869,unblemished onion
+./img/left1004.jpg,600,490,676,556,unblemished onion
+./img/left1005.jpg,532,438,641,540,glove
+./img/left1005.jpg,596,779,670,855,blemished onion
+./img/left1005.jpg,638,810,710,885,blemished onion
+./img/left1005.jpg,843,796,911,869,unblemished onion
+./img/left1005.jpg,577,456,652,515,unblemished onion
+./img/left1008.jpg,549,445,655,542,glove
+./img/left1008.jpg,604,784,667,858,blemished onion
+./img/left1008.jpg,638,813,710,887,blemished onion
+./img/left1008.jpg,583,469,661,527,unblemished onion
+./img/left1008.jpg,1033,439,1086,509,unblemished onion
+./img/left1008.jpg,832,784,911,859,unblemished onion
+./img/left1021.jpg,540,454,640,575,glove
+./img/left1021.jpg,591,784,671,862,blemished onion
+./img/left1021.jpg,640,813,715,889,blemished onion
+./img/left1021.jpg,841,789,915,871,unblemished onion
+./img/left1021.jpg,1056,471,1117,534,unblemished onion
+./img/left1021.jpg,596,465,661,516,unblemished onion
+./img/left1026.jpg,555,481,673,576,glove
+./img/left1026.jpg,596,780,670,855,blemished onion
+./img/left1026.jpg,643,812,715,889,blemished onion
+./img/left1026.jpg,626,490,697,551,unblemished onion
+./img/left1026.jpg,830,796,911,860,unblemished onion
+./img/left1035.jpg,550,520,666,595,glove
+./img/left1035.jpg,592,785,669,859,blemished onion
+./img/left1035.jpg,640,815,715,889,blemished onion
+./img/left1035.jpg,841,795,909,865,unblemished onion
+./img/left1035.jpg,938,784,1009,851,unblemished onion
+./img/left1035.jpg,600,495,668,545,unblemished onion
+./img/left1038.jpg,564,506,654,613,glove
+./img/left1038.jpg,594,780,670,858,blemished onion
+./img/left1038.jpg,643,815,715,890,blemished onion
+./img/left1038.jpg,618,518,691,592,unblemished onion
+./img/left1038.jpg,839,786,909,869,unblemished onion
+./img/left1038.jpg,930,819,999,892,unblemished onion
+./img/left1039.jpg,638,635,772,726,glove
+./img/left1039.jpg,600,784,669,861,blemished onion
+./img/left1039.jpg,646,821,712,890,blemished onion
+./img/left1039.jpg,699,671,777,737,unblemished onion
+./img/left1039.jpg,843,792,912,863,unblemished onion
+./img/left1039.jpg,936,821,1005,898,unblemished onion
+./img/left1050.jpg,701,717,817,834,glove
+./img/left1050.jpg,598,783,670,855,blemished onion
+./img/left1050.jpg,633,810,708,892,blemished onion
+./img/left1050.jpg,718,801,782,872,unblemished onion
+./img/left1050.jpg,843,787,912,863,unblemished onion
+./img/left1050.jpg,950,819,1009,892,unblemished onion
+./img/left1061.jpg,526,728,649,856,glove
+./img/left1061.jpg,595,780,666,858,blemished onion
+./img/left1061.jpg,639,810,714,892,blemished onion
+./img/left1061.jpg,753,821,812,890,unblemished onion
+./img/left1061.jpg,938,828,1012,893,unblemished onion
+./img/left1061.jpg,865,692,936,763,unblemished onion
+./img/left1065.jpg,431,696,552,801,glove
+./img/left1065.jpg,596,784,670,858,blemished onion
+./img/left1065.jpg,641,818,717,887,blemished onion
+./img/left1065.jpg,759,813,827,875,unblemished onion
+./img/left1065.jpg,926,830,988,892,unblemished onion
+./img/left1065.jpg,974,512,1036,583,unblemished onion
+./img/left1071.jpg,386,713,508,808,glove
+./img/left1071.jpg,596,783,670,852,blemished onion
+./img/left1071.jpg,755,824,826,890,unblemished onion
+./img/left1071.jpg,926,824,991,893,unblemished onion
+./img/left1071.jpg,1015,492,1086,554,unblemished onion
+./img/left1081.jpg,418,663,517,749,glove
+./img/left1081.jpg,591,786,673,863,blemished onion
+./img/left1088.jpg,563,534,660,621,glove
+./img/left1088.jpg,593,782,671,856,blemished onion
+./img/left1088.jpg,750,801,815,875,unblemished onion
+./img/left1088.jpg,920,824,999,896,unblemished onion
+./img/left1088.jpg,1024,646,1094,718,unblemished onion
+./img/left1090.jpg,561,525,657,622,glove
+./img/left1090.jpg,592,783,669,859,blemished onion
+./img/left1090.jpg,755,809,830,875,unblemished onion
+./img/left1090.jpg,929,828,994,895,unblemished onion
+./img/left1090.jpg,1023,645,1096,721,unblemished onion
+./img/left1104.jpg,505,440,586,563,glove
+./img/left1104.jpg,594,784,670,861,blemished onion
+./img/left1104.jpg,518,431,597,495,blemished onion
+./img/left1104.jpg,755,804,829,881,unblemished onion
+./img/left1104.jpg,930,824,997,898,unblemished onion
+./img/left1104.jpg,999,510,1064,593,unblemished onion
+./img/left1120.jpg,539,409,636,494,glove
+./img/left1120.jpg,590,786,669,861,blemished onion
+./img/left1120.jpg,596,424,670,486,blemished onion
+./img/left1120.jpg,752,810,821,880,unblemished onion
+./img/left1120.jpg,853,790,911,871,unblemished onion
+./img/left1120.jpg,926,819,1000,893,unblemished onion
+./img/left1123.jpg,545,461,673,536,glove
+./img/left1123.jpg,593,785,671,860,blemished onion
+./img/left1123.jpg,617,460,685,535,blemished onion
+./img/left1123.jpg,758,801,823,880,unblemished onion
+./img/left1123.jpg,846,801,918,862,unblemished onion
+./img/left1123.jpg,924,825,994,892,unblemished onion
+./img/left1126.jpg,556,475,682,537,glove
+./img/left1126.jpg,622,483,690,543,blemished onion
+./img/left1126.jpg,596,788,670,863,blemished onion
+./img/left1126.jpg,749,812,832,887,unblemished onion
+./img/left1126.jpg,852,799,914,869,unblemished onion
+./img/left1126.jpg,924,819,986,890,unblemished onion
+./img/left1129.jpg,517,435,646,537,glove
+./img/left1129.jpg,596,783,668,856,blemished onion
+./img/left1129.jpg,656,441,723,517,blemished onion
+./img/left1129.jpg,752,807,829,880,unblemished onion
+./img/left1129.jpg,853,793,921,872,unblemished onion
+./img/left1129.jpg,929,824,996,889,unblemished onion
+./img/left1130.jpg,506,444,621,543,glove
+./img/left1130.jpg,594,783,668,858,blemished onion
+./img/left1130.jpg,664,433,730,493,blemished onion
+./img/left1130.jpg,747,812,826,874,unblemished onion
+./img/left1130.jpg,864,799,927,869,unblemished onion
+./img/left1130.jpg,924,822,993,899,unblemished onion
+./img/left1132.jpg,497,527,585,647,glove
+./img/left1132.jpg,686,414,732,474,blemished onion
+./img/left1132.jpg,596,785,670,860,blemished onion
+./img/left1132.jpg,749,816,823,877,unblemished onion
+./img/left1132.jpg,870,790,932,869,unblemished onion
+./img/left1132.jpg,930,819,993,892,unblemished onion
+./img/left1133.jpg,484,541,588,660,glove
+./img/left1133.jpg,591,787,668,855,blemished onion
+./img/left1133.jpg,685,400,735,482,blemished onion
+./img/left1133.jpg,755,810,823,878,unblemished onion
+./img/left1133.jpg,868,793,935,868,unblemished onion
+./img/left1133.jpg,929,821,1000,892,unblemished onion
+./img/left1158.jpg,459,613,549,720,glove
+./img/left1158.jpg,891,520,983,599,glove
+./img/left1158.jpg,591,786,668,860,blemished onion
+./img/left1158.jpg,648,422,707,498,blemished onion
+./img/left1158.jpg,755,810,823,881,unblemished onion
+./img/left1158.jpg,880,792,946,862,unblemished onion
+./img/left1166.jpg,459,614,546,716,glove
+./img/left1166.jpg,894,470,965,588,glove
+./img/left1166.jpg,596,783,668,861,blemished onion
+./img/left1166.jpg,752,815,833,883,unblemished onion
+./img/left1166.jpg,889,786,956,860,unblemished onion
+./img/left1166.jpg,933,478,999,528,unblemished onion
+./img/left1166.jpg,653,406,718,475,unblemished onion
+./img/left1177.jpg,532,491,588,605,glove
+./img/left1177.jpg,879,459,944,606,glove
+./img/left1177.jpg,593,784,671,861,blemished onion
+./img/left1177.jpg,755,813,824,872,unblemished onion
+./img/left1177.jpg,876,786,947,868,unblemished onion
+./img/left1179.jpg,546,487,615,605,glove
+./img/left1179.jpg,874,446,937,590,glove
+./img/left1179.jpg,591,785,668,859,blemished onion
+./img/left1179.jpg,750,804,824,871,unblemished onion
+./img/left1179.jpg,879,793,952,857,unblemished onion
+./img/left1185.jpg,528,447,592,571,glove
+./img/left1185.jpg,889,563,1023,623,glove
+./img/left1185.jpg,592,782,667,853,blemished onion
+./img/left1185.jpg,759,813,826,883,unblemished onion
+./img/left1185.jpg,880,790,949,868,unblemished onion
+./img/left1186.jpg,526,423,582,576,glove
+./img/left1186.jpg,912,610,1043,684,glove
+./img/left1186.jpg,591,783,666,858,blemished onion
+./img/left1186.jpg,759,806,826,887,unblemished onion
+./img/left1186.jpg,886,787,950,865,unblemished onion
+./img/left1192.jpg,558,442,661,583,glove
+./img/left1192.jpg,948,724,1031,888,glove
+./img/left1192.jpg,601,445,667,514,blemished onion
+./img/left1192.jpg,594,780,670,853,blemished onion
+./img/left1192.jpg,755,806,824,877,unblemished onion
+./img/left1192.jpg,888,789,946,859,unblemished onion
+./img/left1192.jpg,608,445,667,513,unblemished onion
+./img/left1195.jpg,561,462,624,590,glove
+./img/left1195.jpg,943,731,1029,886,glove
+./img/left1195.jpg,592,779,669,858,blemished onion
+./img/left1195.jpg,588,464,642,529,blemished onion
+./img/left1195.jpg,750,812,832,877,unblemished onion
+./img/left1195.jpg,883,784,943,860,unblemished onion
+./img/left1203.jpg,596,656,694,712,glove
+./img/left1203.jpg,852,597,952,691,glove
+./img/left1203.jpg,597,780,667,856,blemished onion
+./img/left1203.jpg,614,618,681,678,blemished onion
+./img/left1203.jpg,755,813,824,880,unblemished onion
+./img/left1203.jpg,883,789,946,868,unblemished onion
+./img/left1203.jpg,971,815,1032,881,unblemished onion
+./img/left1211.jpg,580,635,670,730,glove
+./img/left1211.jpg,846,520,941,662,glove
+./img/left1211.jpg,598,788,670,859,blemished onion
+./img/left1211.jpg,652,609,720,680,blemished onion
+./img/left1211.jpg,762,799,824,881,unblemished onion
+./img/left1211.jpg,882,778,946,860,unblemished onion
+./img/left1211.jpg,971,815,1038,880,unblemished onion
+./img/left1217.jpg,497,691,582,790,glove
+./img/left1217.jpg,849,672,955,766,glove
+./img/left1217.jpg,596,780,670,856,blemished onion
+./img/left1217.jpg,649,818,722,883,blemished onion
+./img/left1217.jpg,755,804,823,880,unblemished onion
+./img/left1217.jpg,883,783,953,863,unblemished onion
+./img/left1217.jpg,971,812,1035,877,unblemished onion
+./img/left1224.jpg,515,685,586,785,glove
+./img/left1224.jpg,857,713,942,838,glove
+./img/left1224.jpg,595,788,661,860,blemished onion
+./img/left1224.jpg,646,818,721,883,blemished onion
+./img/left1224.jpg,755,809,823,880,unblemished onion
+./img/left1224.jpg,883,801,953,863,unblemished onion
+./img/left1224.jpg,967,815,1039,878,unblemished onion
+./img/left1234.jpg,529,679,632,772,glove
+./img/left1234.jpg,853,595,951,703,glove
+./img/left1234.jpg,597,784,670,859,blemished onion
+./img/left1234.jpg,643,789,719,876,blemished onion
+./img/left1234.jpg,755,809,824,875,unblemished onion
+./img/left1234.jpg,971,815,1033,875,unblemished onion
+./img/left1239.jpg,535,738,664,816,glove
+./img/left1239.jpg,877,485,970,613,glove
+./img/left1239.jpg,596,785,670,856,blemished onion
+./img/left1239.jpg,649,794,720,876,blemished onion
+./img/left1239.jpg,756,813,829,881,unblemished onion
+./img/left1239.jpg,971,813,1036,874,unblemished onion
+./img/left1243.jpg,538,768,654,862,glove
+./img/left1243.jpg,881,507,966,636,glove
+./img/left1243.jpg,597,785,658,856,blemished onion
+./img/left1243.jpg,647,800,720,872,blemished onion
+./img/left1243.jpg,758,812,823,877,unblemished onion
+./img/left1243.jpg,973,815,1039,878,unblemished onion
+./img/left1243.jpg,896,506,956,587,unblemished onion
+./img/left1254.jpg,487,516,568,585,glove
+./img/left1254.jpg,846,711,905,814,glove
+./img/left1254.jpg,520,527,588,598,blemished onion
+./img/left1254.jpg,649,795,722,874,blemished onion
+./img/left1254.jpg,752,813,823,880,unblemished onion
+./img/left1254.jpg,868,754,933,830,unblemished onion
+./img/left1254.jpg,970,815,1035,872,unblemished onion
+./img/left1258.jpg,484,516,576,601,glove
+./img/left1258.jpg,842,729,909,849,glove
+./img/left1258.jpg,522,516,588,592,blemished onion
+./img/left1258.jpg,647,794,723,870,blemished onion
+./img/left1258.jpg,752,809,823,878,unblemished onion
+./img/left1258.jpg,864,807,943,872,unblemished onion
+./img/left1258.jpg,965,812,1043,878,unblemished onion
+./img/left1259.jpg,489,514,574,607,glove
+./img/left1259.jpg,846,747,915,863,glove
+./img/left1259.jpg,520,522,588,592,blemished onion
+./img/left1259.jpg,649,792,722,879,blemished onion
+./img/left1259.jpg,752,810,823,875,unblemished onion
+./img/left1259.jpg,970,807,1038,877,unblemished onion
+./img/left1259.jpg,859,798,935,877,unblemished onion
+./img/left1269.jpg,489,516,561,581,glove
+./img/left1269.jpg,845,690,954,765,glove
+./img/left1269.jpg,529,513,602,580,blemished onion
+./img/left1269.jpg,646,789,721,873,blemished onion
+./img/left1269.jpg,756,815,820,875,unblemished onion
+./img/left1269.jpg,850,803,927,877,unblemished onion
+./img/left1269.jpg,961,809,1036,880,unblemished onion
+./img/left1276.jpg,532,684,619,772,glove
+./img/left1276.jpg,900,711,1005,791,glove
+./img/left1276.jpg,594,679,656,751,blemished onion
+./img/left1276.jpg,644,786,723,871,blemished onion
+./img/left1276.jpg,762,807,823,883,unblemished onion
+./img/left1276.jpg,855,798,923,880,unblemished onion
+./img/left1276.jpg,970,810,1033,878,unblemished onion
+./img/left1282.jpg,551,771,624,860,glove
+./img/left1282.jpg,940,760,1022,871,glove
+./img/left1282.jpg,598,775,663,853,blemished onion
+./img/left1282.jpg,648,790,719,877,blemished onion
+./img/left1282.jpg,755,818,823,880,unblemished onion
+./img/left1282.jpg,849,801,924,875,unblemished onion
+./img/left1282.jpg,974,806,1038,884,unblemished onion
+./img/left1284.jpg,550,779,625,866,glove
+./img/left1284.jpg,939,771,1021,873,glove
+./img/left1284.jpg,590,792,657,859,blemished onion
+./img/left1284.jpg,646,783,724,879,blemished onion
+./img/left1284.jpg,752,809,823,880,unblemished onion
+./img/left1284.jpg,844,796,920,875,unblemished onion
+./img/left1284.jpg,965,804,1035,880,unblemished onion
+./img/left1288.jpg,543,784,608,861,glove
+./img/left1288.jpg,938,752,1005,840,glove
+./img/left1288.jpg,588,784,659,862,blemished onion
+./img/left1288.jpg,646,791,716,874,blemished onion
+./img/left1288.jpg,752,809,823,881,unblemished onion
+./img/left1288.jpg,850,801,918,878,unblemished onion
+./img/left1288.jpg,974,772,1027,831,unblemished onion
+./img/left1304.jpg,482,680,561,789,glove
+./img/left1304.jpg,894,466,965,607,glove
+./img/left1304.jpg,587,777,664,855,blemished onion
+./img/left1304.jpg,647,791,720,876,blemished onion
+./img/left1304.jpg,753,813,824,878,unblemished onion
+./img/left1304.jpg,849,795,920,878,unblemished onion
+./img/left1312.jpg,462,681,533,764,glove
+./img/left1312.jpg,885,454,955,587,glove
+./img/left1312.jpg,588,782,662,856,blemished onion
+./img/left1312.jpg,643,795,717,876,blemished onion
+./img/left1312.jpg,753,812,820,874,unblemished onion
+./img/left1312.jpg,844,799,918,881,unblemished onion
+./img/left1312.jpg,920,457,952,513,unblemished onion
+./img/left1323.jpg,505,701,615,790,glove
+./img/left1323.jpg,926,537,1005,641,glove
+./img/left1323.jpg,591,778,664,854,blemished onion
+./img/left1323.jpg,646,789,721,876,blemished onion
+./img/left1323.jpg,747,809,823,874,unblemished onion
+./img/left1323.jpg,846,798,915,875,unblemished onion
+./img/left1323.jpg,936,522,996,577,unblemished onion
+./img/left1324.jpg,501,703,607,793,glove
+./img/left1324.jpg,918,530,1001,644,glove
+./img/left1324.jpg,589,782,658,855,blemished onion
+./img/left1324.jpg,647,791,720,878,blemished onion
+./img/left1324.jpg,752,810,821,874,unblemished onion
+./img/left1324.jpg,849,801,917,874,unblemished onion
+./img/left1324.jpg,938,527,993,578,unblemished onion
+./img/left1326.jpg,494,721,600,827,glove
+./img/left1326.jpg,921,575,996,666,glove
+./img/left1326.jpg,588,777,662,856,blemished onion
+./img/left1326.jpg,648,791,719,874,blemished onion
+./img/left1326.jpg,846,801,915,874,unblemished onion
+./img/left1326.jpg,926,540,1000,581,unblemished onion
+./img/left1334.jpg,480,714,571,811,glove
+./img/left1334.jpg,930,757,1023,872,glove
+./img/left1334.jpg,585,778,660,853,blemished onion
+./img/left1334.jpg,649,791,718,876,blemished onion
+./img/left1334.jpg,738,563,797,631,unblemished onion
+./img/left1334.jpg,847,796,917,881,unblemished onion
+./img/left1340.jpg,479,702,576,804,glove
+./img/left1340.jpg,929,724,1024,827,glove
+./img/left1340.jpg,587,780,660,852,blemished onion
+./img/left1340.jpg,638,790,720,877,blemished onion
+./img/left1340.jpg,849,801,912,878,unblemished onion
+./img/left1340.jpg,952,813,1021,887,unblemished onion
+./img/left1340.jpg,739,531,799,590,unblemished onion
+./img/left1352.jpg,459,713,553,807,glove
+./img/left1352.jpg,817,772,929,866,glove
+./img/left1352.jpg,591,782,664,856,blemished onion
+./img/left1352.jpg,646,792,716,874,blemished onion
+./img/left1352.jpg,732,518,803,584,unblemished onion
+./img/left1352.jpg,847,798,924,878,unblemished onion
+./img/left1352.jpg,947,816,1011,884,unblemished onion
+./img/left1355.jpg,460,709,552,801,glove
+./img/left1355.jpg,812,773,930,863,glove
+./img/left1355.jpg,589,782,663,856,blemished onion
+./img/left1355.jpg,652,792,720,880,blemished onion
+./img/left1355.jpg,727,527,809,589,unblemished onion
+./img/left1355.jpg,841,803,918,877,unblemished onion
+./img/left1355.jpg,952,816,1015,890,unblemished onion
+./img/left1356.jpg,456,710,551,806,glove
+./img/left1356.jpg,812,767,927,869,glove
+./img/left1356.jpg,586,779,661,856,blemished onion
+./img/left1356.jpg,641,789,717,873,blemished onion
+./img/left1356.jpg,723,545,794,599,unblemished onion
+./img/left1356.jpg,841,804,911,874,unblemished onion
+./img/left1356.jpg,952,816,1014,887,unblemished onion
+./img/left1357.jpg,453,713,555,801,glove
+./img/left1357.jpg,826,778,925,866,glove
+./img/left1357.jpg,591,780,661,856,blemished onion
+./img/left1357.jpg,649,795,722,873,blemished onion
+./img/left1357.jpg,723,551,791,613,unblemished onion
+./img/left1357.jpg,843,796,912,880,unblemished onion
+./img/left1357.jpg,952,816,1011,884,unblemished onion
+./img/left1358.jpg,457,709,555,804,glove
+./img/left1358.jpg,827,773,927,875,glove
+./img/left1358.jpg,587,780,660,853,blemished onion
+./img/left1358.jpg,649,792,723,874,blemished onion
+./img/left1358.jpg,723,566,788,628,unblemished onion
+./img/left1358.jpg,844,798,917,877,unblemished onion
+./img/left1358.jpg,950,818,1011,886,unblemished onion
+./img/left1377.jpg,555,764,651,847,glove
+./img/left1377.jpg,944,538,1002,645,glove
+./img/left1377.jpg,762,790,826,853,unblemished onion
+./img/left1377.jpg,950,822,1017,887,unblemished onion
+./img/left1377.jpg,936,512,1002,562,unblemished onion
+./img/left1380.jpg,515,725,643,832,glove
+./img/left1380.jpg,943,554,1029,662,glove
+./img/left1380.jpg,638,789,720,874,blemished onion
+./img/left1380.jpg,770,790,824,854,unblemished onion
+./img/left1380.jpg,950,815,1014,886,unblemished onion
+./img/left1380.jpg,952,543,1021,609,unblemished onion
+./img/left1381.jpg,517,713,646,814,glove
+./img/left1381.jpg,939,561,1028,672,glove
+./img/left1381.jpg,641,793,717,880,blemished onion
+./img/left1381.jpg,771,789,829,856,unblemished onion
+./img/left1381.jpg,949,819,1012,886,unblemished onion
+./img/left1381.jpg,959,553,1015,616,unblemished onion
+./img/left1383.jpg,532,696,646,814,glove
+./img/left1383.jpg,934,562,1021,665,glove
+./img/left1383.jpg,642,792,713,878,blemished onion
+./img/left1383.jpg,768,786,829,851,unblemished onion
+./img/left1383.jpg,950,816,1012,883,unblemished onion
+./img/left1383.jpg,949,543,1020,610,unblemished onion
+./img/left1395.jpg,517,719,649,824,glove
+./img/left1395.jpg,930,503,1018,615,glove
+./img/left1395.jpg,635,789,718,873,blemished onion
+./img/left1395.jpg,568,793,636,860,unblemished onion
+./img/left1395.jpg,768,789,839,848,unblemished onion
+./img/left1395.jpg,953,819,1014,886,unblemished onion
+./img/left1395.jpg,961,498,1009,549,unblemished onion
+./img/left1396.jpg,518,711,650,819,glove
+./img/left1396.jpg,941,501,1026,637,glove
+./img/left1396.jpg,644,787,721,871,blemished onion
+./img/left1396.jpg,573,789,647,862,unblemished onion
+./img/left1396.jpg,770,786,832,849,unblemished onion
+./img/left1396.jpg,950,819,1012,883,unblemished onion
+./img/left1396.jpg,964,499,1018,559,unblemished onion
+./img/left1397.jpg,526,713,652,810,glove
+./img/left1397.jpg,948,494,1024,609,glove
+./img/left1397.jpg,643,791,717,874,blemished onion
+./img/left1397.jpg,574,790,643,859,unblemished onion
+./img/left1397.jpg,774,775,833,854,unblemished onion
+./img/left1397.jpg,950,822,1012,886,unblemished onion
+./img/left1397.jpg,967,504,1020,559,unblemished onion
+./img/left1404.jpg,479,643,581,720,glove
+./img/left1404.jpg,867,584,954,692,glove
+./img/left1404.jpg,646,792,721,880,blemished onion
+./img/left1404.jpg,573,784,643,860,unblemished onion
+./img/left1404.jpg,767,786,833,854,unblemished onion
+./img/left1404.jpg,950,816,1012,883,unblemished onion
+./img/left1404.jpg,891,601,949,678,unblemished onion
+./img/left1405.jpg,472,663,566,726,glove
+./img/left1405.jpg,854,643,945,739,glove
+./img/left1405.jpg,644,790,721,877,blemished onion
+./img/left1405.jpg,574,784,646,863,unblemished onion
+./img/left1405.jpg,773,795,829,849,unblemished onion
+./img/left1405.jpg,946,824,1017,880,unblemished onion
+./img/left1419.jpg,518,693,621,765,glove
+./img/left1419.jpg,906,610,999,726,glove
+./img/left1419.jpg,643,791,717,878,blemished onion
+./img/left1419.jpg,573,786,639,860,unblemished onion
+./img/left1419.jpg,762,789,830,856,unblemished onion
+./img/left1419.jpg,849,799,921,877,unblemished onion
+./img/left1419.jpg,950,815,1015,892,unblemished onion
